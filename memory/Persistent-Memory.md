@@ -1,7 +1,7 @@
 ---
 title: Persistent Memory
 date: 2026-04-15
-version: 1.1
+version: 1.2
 tags: [persistent-memory, statistics-learning]
 author: Grok-Statistics-Agent
 email: chg_g@msn.com
@@ -32,15 +32,15 @@ related: [[User-Profile]], [[statistics_mindmap]], [[Progress]], [[Description-S
 | 数据类型 | ✅ | 定类/定序/定距/定比 + 图表选择 |
 | 整理与展示 | ✅ | 频数表、直方图、箱线图、散点图、偏度判断 |
 | 集中趋势 | ✅ | 均值、中位数、众数 |
+| 离散程度 | ✅ | 极差、IQR、方差、标准差 |
 
 ### 当前进行中
 
-- 描述统计 → 总结指标（集中趋势已完成，离散程度待开始）
+- 描述统计 → 形状（偏度、峰度）
+- 描述统计 → 关联（协方差、相关系数）
 
 ### 待学习模块
 
-- 描述统计 → 离散程度（方差、标准差、极差、IQR）
-- 描述统计 → 形状（偏度、峰度）
 - 描述统计 → 关联（协方差、相关系数）
 - 概率基础
 - 推断统计
@@ -48,7 +48,13 @@ related: [[User-Profile]], [[statistics_mindmap]], [[Progress]], [[Description-S
 ## 用户表现记录
 
 - 计算能力强
-- 数据类型↔图表关系初期较弱，已通过补充练习掌握
+- IQR计算初期有误，理解位置公式法后掌握
+- 数据类型↔图表关系初期较弱，已掌握
+
+## 项目环境状态
+
+- Python虚拟环境：`.venv/`（numpy, pandas, matplotlib, scipy 已安装）
+- 项目规则：`.trae/rules/project_rules.md`
 
 ## 约定
 
