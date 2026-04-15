@@ -1,7 +1,7 @@
 ---
 title: Persistent Memory
 date: 2026-04-15
-version: 1.3
+version: 1.4
 tags: [persistent-memory, statistics-learning]
 author: Grok-Statistics-Agent
 email: chg_g@msn.com
@@ -34,22 +34,24 @@ related: [[User-Profile]], [[statistics_mindmap]], [[Progress]], [[Description-S
 | 集中趋势 | ✅ | 均值、中位数、众数 |
 | 离散程度 | ✅ | 极差、IQR、方差、标准差 |
 | 形状 | ✅ | 偏度、峰度 |
+| 关联 | ✅ | 协方差、相关系数 |
 
-### 当前进行中
+### 整体进度
 
-- 描述统计 → 关联（协方差、相关系数）
+- **描述统计：✅ 已完成**
+- 概率基础：待开始
+- 推断统计：待开始
 
 ### 待学习模块
 
-- 描述统计 → 关联（协方差、相关系数）
 - 概率基础
 - 推断统计
 
 ## 用户表现记录
 
 - 计算能力强
-- 偏度判断初期有误（数据集A误判为偏左），经纠正后掌握
-- 理解"尾巴往哪边偏，均值就被拉向哪边"
+- 偏度判断初期有误（数据集A误判为偏左），经纠正后理解
+- 关联部分理解正确
 
 ## 项目环境状态
 
