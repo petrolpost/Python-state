@@ -1,5 +1,5 @@
 ---
-title: Trae AI Agent System Rules - Persistent Memory & Knowledge Agent
+title: Statics Couse AI Agent System Rules - Persistent Memory & Knowledge Agent
 tags: [ai-agent, system-prompt, traeskills, obsidian]
 date: 2026-04-14
 ---
